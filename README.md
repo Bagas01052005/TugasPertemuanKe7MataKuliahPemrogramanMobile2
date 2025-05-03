@@ -18,3 +18,24 @@
 ![gambar](Screenshot/SS16.png)
 ![gambar](Screenshot/SS17.png)
 ![gambar](Screenshot/SS18.png)
+
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.mytimer",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
